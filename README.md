@@ -60,8 +60,4 @@ We welcome contributions from the community! If you want to contribute to BitPre
 3. Commit your changes and push them to your fork.
 4. Create a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
