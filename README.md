@@ -51,13 +51,4 @@ Training deep learning models can be resource-intensive. Google Colab is recomme
 
 Evaluate your model's performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and visualization techniques. Use these insights to refine your model and make more accurate predictions.
 
-## Contributing
-
-We welcome contributions from the community! If you want to contribute to BitPredict, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix: `git checkout -b feature/your-feature-name`.
-3. Commit your changes and push them to your fork.
-4. Create a pull request to the main repository.
-
 ---
